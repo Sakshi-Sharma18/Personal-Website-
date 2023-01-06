@@ -1,0 +1,24 @@
+th{
+    background-color: pink;
+    text-align: left;
+    width: 300px;
+}
+td{
+    background-color: #FFE4E1;
+    text-align: left;
+    width: 300px;
+}
+table{
+    border: 1px solid;
+    border-color: white;
+}
+body{
+    background-color: #611E1E;
+}
+h2{
+    color: white;
+    font-family: serif;
+    font-size: 200%;
+    font-style: normal;
+    text-decoration: underline;
+}
